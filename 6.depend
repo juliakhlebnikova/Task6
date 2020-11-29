@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1606502482 source:c:\users\julia\desktop\6\main.cpp
+	<iostream>
+	<cstdlib>
+	<cassert>
+	<fstream>
+	<string>
+	<locale.h>
+
+1606502824 source:c:\users\julia\desktop\ÝÂÌ\6\main.cpp
+	<iostream>
+	<cstdlib>
+	<cassert>
+	<fstream>
+	<string>
+	<locale.h>
+
